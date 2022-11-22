@@ -6,9 +6,9 @@ overlay result (
     <img "raw img">
     <div jsaction="rcuQ6b:npT2md;ReXNVd:xTpYX;XsuwBb:nt3dJc;DCCk:qKzo7;agoMJf:KpoFNb;" jscontroller="Sgcmwc" class="cZ0zPb" jslog="72839;cid:lnsw;track:multikeypress,dragend,rightclick;" data-capture-text-selection="true" jsname="zITuI" data-event-layer="True" is-lens-fetch-renderer="" data-lens-fetch-renderer-filter-request-type="1" data-lens-fetch-renderer-filter-only-most-recent="true" style="">
       <div jsname="Bc4lBd" class="UKbvFf" style="">
-        <div>text[0]</div>
+        <div>first text</div>
         ...
-        <div>text[-1]</div>
+        <div>last text</div>
       </div>
     </div>
   </div>
