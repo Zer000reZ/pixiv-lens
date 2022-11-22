@@ -1,4 +1,4 @@
-add menu option 'translate'
+add menu option 'translate' to rightclick-img
 send img to lens
 overlay result (
 <div jsname="rZHESd" class="IDvEJb" jsslot="" style="transform: translate3d(-238px, -336px, 0px);">
